@@ -8,7 +8,7 @@
     <img src="C:\Users\user\Desktop\image.jpg" alt="Catherine Anne Wairimu" width="150" height="150">
   <br>
 <p>My hobbies include:</p>s
-    <ul>sssss
+    <ul>
         <li>Reading</li>
         <li>Hiking</li>
         <li>Exploring new technologies</li>
